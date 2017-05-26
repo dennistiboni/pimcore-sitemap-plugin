@@ -8,11 +8,12 @@
     "authors": [
         {
             "name": "Dennis Tiboni",
-            "email": "dennis.tiboni@gmail.com   "
+            "email": "dennis.tiboni@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.5",
         "pimcore/installer-plugin": ">=1"
-    }
+    },
+    "minimum-stability": "dev"
 }
